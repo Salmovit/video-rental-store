@@ -12,7 +12,7 @@ Simple REST API of a video rental store, developed mostly as a test for further 
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Mysql](https://dev.mysql.com/downloads/)
 
-## Adopted Practices
+## Skills used
 
 - API REST
 - Queries with Spring Data JPA
